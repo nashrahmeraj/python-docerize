@@ -1,0 +1,4 @@
+Django==2.1.7
+tensorflow==2.0.0
+requests==2.21.0
+djangorestframework==3.10.3
