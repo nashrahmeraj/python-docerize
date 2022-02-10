@@ -1,5 +1,5 @@
 Django==2.1.7
-tensorflow==2.0.0
+tensorflow==2.5.3
 requests==2.21.0
 djangorestframework==3.10.3
 gunicorn==19.9.0
